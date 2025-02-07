@@ -3,5 +3,5 @@ version: '3.9'
 services:
   web:
    image: dhappy1998/node-app:latest
-    ports:
+   ports:
       - "8000:8000"
